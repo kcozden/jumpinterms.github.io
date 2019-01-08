@@ -7,7 +7,7 @@
 <p>Effective date: December 12, 2018</p>
 
 
-<p>Çağrı Özden ("us", "we", or "our") operates the JUMPIN mobile application (the "Service").</p>
+<p>Ragaman Games ("us", "we", or "our") operates the JUMPIN mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for JUMPIN is based on the <a href="https://www.freeprivacypolicy.com/blog/sample-privacy-policy-template/">Free Privacy Policy Template Website</a>.</p>
 
@@ -45,7 +45,7 @@
 
 <h2>Use of Data</h2>
     
-<p>Dalak Games uses the collected data for various purposes:</p>    
+<p>Ragaman Games uses the collected data for various purposes:</p>    
 <ul>
     <li>To provide and maintain the Service</li>
     <li>To notify you about changes to our Service</li>
@@ -60,12 +60,12 @@
 <p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
 <p>If you are located outside Turkey and choose to provide information to us, please note that we transfer the data, including Personal Data, to Turkey and process it there.</p>
 <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-<p>Dalak Games will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+<p>Ragaman Games will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
 
 <h2>Disclosure Of Data</h2>
 
 <h3>Legal Requirements</h3>
-<p>Dalak Games may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<p>Ragaman Games may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
 <ul>
     <li>To comply with a legal obligation</li>
     <li>To protect and defend the rights or property of Dalak Games</li>
